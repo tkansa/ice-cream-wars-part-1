@@ -1,0 +1,14 @@
+.AdDesigner {
+    flex-grow: 1;
+}
+
+.ad-container {
+    height: 175px;
+    width: 200px;
+    border: solid black 1px;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}

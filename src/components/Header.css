@@ -1,0 +1,9 @@
+.Header {
+    display: flex;
+    justify-content: center;
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+h1 {
+    justify-content: center;
+}
